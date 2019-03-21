@@ -1,0 +1,12 @@
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Play2Change</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="no_tweets">No Tweets</string>
+    <!--
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">EgcEVORYuNuYapUDE88kX4Y0M </string>
+    <string name="com.twitter.skd.android.CONSUMER_SECRET">S0CPWhnBd0JpEVqHp5WSOdmP0blVXIm6I2ZqY2NAH8GjhMgSUA </string>
+-->
+</resources>
